@@ -1,0 +1,1 @@
+-- phần search -> khi chỉnh border-radius or thay đổi width của search-input => hiện tượng mất nét
